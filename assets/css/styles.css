@@ -179,6 +179,13 @@ iframe {
   color: #545e69;
   font-size: 24px;
 }
+
+.section .heading-4 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #545e69;
+  font-size: 12px;
+}
 .section .content .more-link .fa {
   margin-right: 5px;
   font-size: 14px;
@@ -347,6 +354,9 @@ iframe {
 /* Skills Section */
 .skills .intro {
   margin-bottom: 30px;
+}
+.skills .sub-skills {
+  margin-bottom: 10px;
 }
 .skills .skillset .item {
   margin-bottom: 30px;
